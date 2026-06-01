@@ -1,0 +1,83 @@
+<mjml>
+  <mj-head>
+
+    <mj-title></mj-title>
+    <mj-preview></mj-preview>
+
+    <mj-attributes>
+
+      <mj-all padding="0" />
+      <mj-text color="#161F33" font-family="Helvetica, sans-serif" font-size="16px" line-height="20px" font-weight="400" />
+      <mj-button color="#ffffff" background-color="#0867ec" font-family="Helvetica, sans-serif" font-size="16px" line-height="20px" font-weight="400" inner-padding="12px 24px 12px 24px" border-radius="4px" />
+      <mj-divider border-width="1px" border-color="#eaebed" padding="0 0 24px 0" />
+
+      <mj-class name="c-blue" color="#0867ec" />
+      <mj-class name="c-dark-blue" color="#075cd4" />
+      <mj-class name="c-purple" color="#9b59b6" />
+      <mj-class name="c-pink" color="#ec0867" />
+      <mj-class name="c-orange" color="#f39c12" />
+      <mj-class name="c-red" color="#d51507" />
+      <mj-class name="c-green" color="#00aa55" />
+      <mj-class name="c-black" color="#161f33" />
+      <mj-class name="c-dark-grey" color="#9a9ea6" />
+      <mj-class name="c-grey" color="#eaebed" />
+      <mj-class name="c-light-grey" color="#f4f5f6" />
+      <mj-class name="c-white" color="#ffffff" />
+
+      <mj-class name="bg-blue" background-color="#0867ec" />
+      <mj-class name="bg-dark-blue" background-color="#075cd4" />
+      <mj-class name="bg-purple" background-color="#9b59b6" />
+      <mj-class name="bg-pink" background-color="#ec0867" />
+      <mj-class name="bg-orange" background-color="#f39c12" />
+      <mj-class name="bg-red" background-color="#d51507" />
+      <mj-class name="bg-green" background-color="#00aa55" />
+      <mj-class name="bg-black" background-color="#161f33" />
+      <mj-class name="bg-dark-grey" background-color="#9a9ea6" />
+      <mj-class name="bg-grey" background-color="#eaebed" />
+      <mj-class name="bg-light-grey" background-color="#f4f5f6" />
+      <mj-class name="bg-white" background-color="#ffffff" />
+
+      <mj-class name="cbg-blue" container-background-color="#0867ec" />
+      <mj-class name="cbg-dark-blue" container-background-color="#075cd4" />
+      <mj-class name="cbg-purple" container-background-color="#9b59b6" />
+      <mj-class name="cbg-pink" container-background-color="#ec0867" />
+      <mj-class name="cbg-orange" container-background-color="#f39c12" />
+      <mj-class name="cbg-red" container-background-color="#d51507" />
+      <mj-class name="cbg-green" container-background-color="#00aa55" />
+      <mj-class name="cbg-black" container-background-color="#161f33" />
+      <mj-class name="cbg-dark-grey" container-background-color="#9a9ea6" />
+      <mj-class name="cbg-grey" container-background-color="#eaebed" />
+      <mj-class name="cbg-light-grey" container-background-color="#f4f5f6" />
+      <mj-class name="cbg-white" container-background-color="#ffffff" />
+
+      <mj-class name="heading-1" font-size="36px" line-height="46px" font-weight="300" />
+      <mj-class name="heading-2" font-size="28px" line-height="36px" font-weight="400" />
+      <mj-class name="heading-3" font-size="22px" line-height="28px" font-weight="400" />
+      <mj-class name="heading-4" font-size="16px" line-height="20px" font-weight="700" />
+
+      <mj-class name="meta-text" color="#9a9ea6" />
+      <mj-class name="footer-text" color="#9a9ea6" font-size="12px" line-height="18px" />
+
+      <mj-class name="link" color="#0867ec" text-decoration="underline" />
+
+      <mj-class name="align-1" align="left" />
+      <mj-class name="align-2" align="center" />
+      <mj-class name="align-3" align="right" />
+
+      <mj-class name="p-24" padding="24px" />
+      <mj-class name="pt-24" padding-top="24px" />
+      <mj-class name="pb-24" padding-bottom="24px" />
+      <mj-class name="p-16" padding="16px" />
+      <mj-class name="pt-16" padding-top="16px" />
+      <mj-class name="pb-16" padding-bottom="16px" />
+      <mj-class name="p-8" padding="8px" />
+      <mj-class name="pt-8" padding-top="8px" />
+      <mj-class name="pb-8" padding-bottom="8px" />
+
+      <mj-class name="br-16" border-radius="16px" />
+      <mj-class name="br-8" border-radius="8px" />
+      <mj-class name="br-4" border-radius="4px" />
+
+    </mj-attributes>
+  </mj-head>
+</mjml>

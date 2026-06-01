@@ -1,0 +1,112 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-title></mj-title>
+    <mj-preview></mj-preview>
+
+    <mj-attributes>
+
+      <mj-all padding="0" />
+      <mj-all font-family="Helvetica, sans-serif" />
+      <mj-all font-size="16px" />
+      <mj-all line-height="20px" />
+      <mj-all color="#161F33" />
+
+      <mj-class name="fz-12" font-size="12px" />
+      <mj-class name="lh-18" line-height="18px" />
+
+      <mj-class name="p-24" padding="24px" />
+      <mj-class name="pt-24" padding-top="24px" />
+      <mj-class name="pb-24" padding-bottom="24px" />
+      <mj-class name="pt-16" padding-top="16px" />
+
+      <mj-class name="ip-12-24" inner-padding="12px 24px" />
+
+      <mj-class name="bd-1-inside-grey" border="1px solid #eaebed" />
+
+      <mj-class name="br-16" border-radius="16px" />
+      <mj-class name="br-4" border-radius="4px" />
+
+      <mj-class name="a-c" align="center" />
+
+      <mj-class name="bg-blue" background-color="#0867ec" />
+      <mj-class name="bg-light-grey" background-color="#f4f5f6" />
+      <mj-class name="bg-white" background-color="#ffffff" />
+
+      <mj-class name="cbg-green" container-background-color="#00aa55" />
+
+      <mj-class name="c-dark-grey" color="#9a9ea6" />
+      <mj-class name="c-white" color="#ffffff" />
+
+    </mj-attributes>
+
+    <mj-style>
+      .body {
+        padding: 24px;
+      }
+
+      .alert {
+        border-radius: 8px;
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body css-class="body" mj-class="bg-light-grey">
+
+    <mj-raw>
+      <!--
+        Rendered HTML compiled from MJML.
+        Design by Lee Munroe (htmlemail.io).
+        Developed by Ilhom (ilhom.mailto@gmail.com).
+        For portfolio demonstration purposes only.
+      -->
+    </mj-raw>
+
+    <mj-section css-class="header" mj-class="pb-24">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/ilhom-mailto/email-assets/refs/heads/main/figma_community_email_01/logo.png" alt="company logo" width="40px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="main" mj-class="bg-white p-24 br-16 bd-1-inside-grey">
+      <mj-column>
+
+        <mj-text css-class="alert" mj-class="cbg-green c-white p-24 a-c">
+          Success! Something good happened.
+        </mj-text>
+
+        <mj-text mj-class="pt-16">
+          Hi Ringo,
+        </mj-text>
+
+        <mj-text mj-class="pt-24">
+          Congratulations! Something good has happened.
+        </mj-text>
+
+        <mj-button href="https://github.com/ilhom-mailto" mj-class="bg-blue c-white pt-16 br-4 ip-12-24">
+          Take Action Now
+        </mj-button>
+
+        <mj-text mj-class="pt-16">
+          Thanks for being a great customer. Let it be!
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="footer" mj-class="pt-24">
+      <mj-column>
+        <mj-text mj-class="a-c fz-12 lh-18 pb-24 c-dark-grey">
+          Company Inc, 7-11 Commercial Ct, Belfast BT1 2NB
+          <br>
+          Don't like these emails?
+          <a href="https://github.com/ilhom-mailto" target="_blank" style="color: #9a9ea6; text-decoration: none;">Unsubscribe.</a>
+        </mj-text>
+        <mj-text mj-class="a-c fz-12 lh-18  c-dark-grey">
+          Powered by HTMLemail.io
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
